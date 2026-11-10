@@ -1,3 +1,13 @@
+# gridpilot-data (moved)
+
+This repository has been **merged into** the GridPilot umbrella and is kept only for history.
+
+**Current code:** https://github.com/DataWithSyed/gridpilot/tree/main/packages/data
+
+Please open issues and pull requests on [DataWithSyed/gridpilot](https://github.com/DataWithSyed/gridpilot). This repo is archived, not deleted.
+
+---
+
 # gridpilot-data
 
 **Step 2** of [GridPilot](https://github.com/DataWithSyed/gridpilot) — pluggable market-data adapters for **paper trading**.
